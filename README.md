@@ -2,9 +2,9 @@
 
 ## Welcome to Siempre En Casa!
 
-*"Buying beverages from the supermarket is my favorite thing in the world!"*
-
--- said no one, ever
+> *"Buying heavy and expensive beverages from the supermarket is my favorite thing in the world!"*
+>
+>-- said no one, ever
 
 This is why we are building [Siempre en Casa](https://siempreencasa.com.ar) - to free you from the hassle of going every week to the supermarket, to buy all the beverages you need. You set up your preferences once, and we will take your favorite drinks to your doorstep, at the best price ever.
 
