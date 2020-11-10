@@ -24,8 +24,8 @@ We hope you are eager to take one of our code challenges and show us how amazing
 
 ## How to deliver?
 
-* Please, do not open a PR with your test.
+* Please, do not open a PR with your solution.
 * Please, do not fork this repo.
-* **Once you have finished the challenge, please send a link to your github repo to the RRHH recruiter **
+* **Once you have finished the challenge, please send a link to your github repo to the recruiter.**
 
 
