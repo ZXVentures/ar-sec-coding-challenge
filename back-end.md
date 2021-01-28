@@ -16,7 +16,7 @@ For example, if we have the following beers.
 |-------------------|-------|
 | Patagonia         | 36    |
 | Quilmes Stout     | 36    |
-| Quilmes Cristal   | 31    |
+| Quilmes Cristal   | 15    |
 | Stella Artois     | 24    |
 
 And our customer ask for a total IBU of 39, our system could answer Quilmes Cristal and Stella Artois because 15 + 24 = 39. 
