@@ -4,7 +4,7 @@
 
 We will build a product list, with a slight twist. We provide you with a sample database of products (real products!) we use here in Siempre en Casa. 
 
-### What you should develop?
+### What should you develop?
 
 ### Visual
 We want you to feel free to develop the markup the way you want, we have no wireframes or something like that for this task. You will create one screen:
