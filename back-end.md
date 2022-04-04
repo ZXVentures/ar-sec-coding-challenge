@@ -68,4 +68,4 @@ Output: []
 5. Extra: if you want to publish your solution in your own AWS account you can share a link to API Gateway, so we can test it. 
 
 ## How to submit
-Create a public repo in github and send an email to pablo@siempreencasa.com.ar with a link to it. 
+Create a public repo in github and send an email to matias@siempreencasa.com.ar with a link to it. 
